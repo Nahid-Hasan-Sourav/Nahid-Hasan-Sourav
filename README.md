@@ -1,7 +1,8 @@
-(https://static.licdn.com/sc/h/5q92mjc5c51bjlwaj3rs9aa82)
+![Web Developer](https://static.licdn.com/sc/h/5q92mjc5c51bjlwaj3rs9aa82)
+
 ### Hi there 👋, I am Md.Nahid Hasan Sourav
 #### Web Developer
-![Web Developer]
+
 
 I am a dedicated web developer. I have expertise in Html, CSS, Bootstrap, Tailwind, Javascript, React JS, Express JS, and MongoDB.
 
