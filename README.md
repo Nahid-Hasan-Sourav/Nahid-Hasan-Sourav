@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Nahid Hasan Sourav</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg](https://designtemlate.s3.us-west-1.wasabisys.com/tue-jan-10-2023-4-03-pm51985.webp">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg](https://designtemlate.s3.us-west-1.wasabisys.com/tue-jan-10-2023-4-03-pm51985.webp"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-hasan-sourav&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-hasan-sourav" /> </p>
