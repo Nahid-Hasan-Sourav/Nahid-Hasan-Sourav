@@ -1,4 +1,7 @@
-<img align="right" alt="coding" width="400" src="https://drive.google.com/uc?id=1OfI9e5tcAgGPpoJMqgRQqQnGIvINl_bW">
+<div style="position: relative;">
+  <img alt="cover" src="https://drive.google.com/uc?id=1OfI9e5tcAgGPpoJMqgRQqQnGIvINl_bW" style="width: 100%; height: 400px; object-fit: cover;">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Hi 👋, I'm Nahid Hasan Sourav</h1>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Nahid Hasan Sourav</h1>
