@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/1OfI9e5tcAgGPpoJMqgRQqQnGIvINl_bW/view?usp=sharing)
+<img align="right" alt="coding" width="400" src="https://example.com/path/to/your-image.jpg">
+
 <h1 align="center">Hi 👋, I'm Nahid Hasan Sourav</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="">
