@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Nahid Hasan Sourav</h1>
 <h3 align="center">Full Stack Developer</h3>
+<p>I am a seasoned full-stack web developer with expertise in HTML5, CSS3, and JavaScript, complemented by proficiency in popular frameworks such as Bootstrap, Tailwind CSS, React.js, and Express.js. My backend skills include PHP with a focus on Laravel, ensuring robust API development and seamless integration with MySQL databases. I am comfortable working with modern web technologies like MongoDB, JSON, and REST APIs. With a keen eye for design, I also possess familiarity with tools like Adobe Photoshop, Illustrator, and Figma. Experienced in version control using Git and well-versed in deployment with platforms like Netlify, Firebase, and Vercel, I bring a comprehensive skill set to deliver efficient and dynamic web solutions.</p>
 <!-- <img align="right" alt="coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/90/cartoon-programmer-writes-code-workspace-concept-vector-20874790.jpg](https://designtemlate.s3.us-west-1.wasabisys.com/tue-jan-10-2023-4-03-pm51985.webp"> -->
 
 
@@ -13,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahid-hasan-sourav" alt="nahid-hasan-sourav" /></a> </p>
 
-- 💬 Ask me about **MERN,LARAVEL**
+- 💬 Ask me about **MERN,LAMP,LARAVEL**
 
 - 📫 How to reach me **nahidhasansourav05@gmail.com**
 
