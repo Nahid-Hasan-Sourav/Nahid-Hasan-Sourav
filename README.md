@@ -23,6 +23,7 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongo DB"/>&nbsp;
    
   `TOOLS`
+  
   [![Server](https://img.shields.io/badge/Server-Laragon-ff69b4?logo=laragon)](https://laragon.org/)&nbsp;
   [![Server](https://img.shields.io/badge/Server-XAMPP-blue?logo=xampp)](https://www.apachefriends.org/index.html)&nbsp;
   [![IDE](https://img.shields.io/badge/IDE-PHPStorm-blue?logo=phpstorm)](https://www.jetbrains.com/phpstorm/)&nbsp;
@@ -37,8 +38,10 @@
 <div style="text-align: center;>
   <a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
  <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
-  </a> <a href="https://www.buymeacoffee.com/webdevmaruf" target="_blank" style="text-decoration: none"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" alt="Buy Me A Coffee" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:220px;max-width:80%;height:auto;" ></a>
+  </a> <a href="" target="_blank" style="text-decoration: none"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" alt="Buy Me A Coffee" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:220px;max-width:80%;height:auto;" ></a>
 </div>
+
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-hasan-sourav&show_icons=true&locale=en&layout=compact" alt="nahid-hasan-sourav" /></p>
 
