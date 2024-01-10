@@ -23,7 +23,8 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongo DB"/>&nbsp;
    
   `TOOLS`
-  
+  [![Server](https://img.shields.io/badge/Server-Laragon-ff69b4?logo=laragon)](https://laragon.org/)&nbsp;
+  [![Server](https://img.shields.io/badge/Server-XAMPP-blue?logo=xampp)](https://www.apachefriends.org/index.html)&nbsp;
   [![IDE](https://img.shields.io/badge/IDE-PHPStorm-blue?logo=phpstorm)](https://www.jetbrains.com/phpstorm/)&nbsp;
   [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
