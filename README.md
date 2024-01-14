@@ -24,6 +24,7 @@
    
   `TOOLS`
   
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
   [![Server](https://img.shields.io/badge/Server-Laragon-ff69b4?logo=laragon)](https://laragon.org/)&nbsp;
   [![Server](https://img.shields.io/badge/Server-XAMPP-blue?logo=xampp)](https://www.apachefriends.org/index.html)&nbsp;
   [![IDE](https://img.shields.io/badge/IDE-PHPStorm-blue?logo=phpstorm)](https://www.jetbrains.com/phpstorm/)&nbsp;
