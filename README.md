@@ -43,7 +43,7 @@
 
 <div style="text-align: center;>
   <h1>Here Is Some of My Project Image</h1>
-  <div style="display:flex">
+  <div style="display:flex;flex-direction:row">
     <div style="">
       <img src="https://drive.google.com/file/d/1tzt1bd7yXX4zaTm0PV9A6WPyTCNv9xPU/view?usp=sharing" style="width:300px;max-width:80%;height:300px;" >
     </div>
