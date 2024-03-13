@@ -41,7 +41,7 @@
 </div>
 <hr>
 
-<div style="text-align: center;>
+<div>
   <h1>Here Is Some of My Project Image</h1>
   <div style="display:flex; flex-wrap: wrap;">
     <div style="flex: 1;">
