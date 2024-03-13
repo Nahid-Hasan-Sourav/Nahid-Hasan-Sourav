@@ -51,10 +51,13 @@
       <img src="https://i.ibb.co/ZKkF53z/flytographer.png" style="width:300px;max-width:80%;height:300px;" >
     </div>
     <div style="flex: 1;">
-      <img src="DIRECT_IMAGE_URL_HERE" style="width:300px;max-width:80%;height:300px;" >
+      <img src="https://i.ibb.co/yP1rz9x/chaka.png" style="width:300px;max-width:80%;height:300px;" >
     </div>
     <div style="flex: 1;">
-      <img src="DIRECT_IMAGE_URL_HERE" style="width:300px;max-width:80%;height:300px;" >
+      <img src="https://i.ibb.co/rtB0JNy/furniture.png" style="width:300px;max-width:80%;height:300px;" >
+    </div>
+     <div style="flex: 1;">
+      <img src="https://i.ibb.co/7CdfHpv/learning-platform.png" style="width:300px;max-width:80%;height:300px;" >
     </div>
 </div>
 
