@@ -43,22 +43,31 @@
 
 <div>
   ### Here Is Some of My Project Image
-  <div style="display:flex; flex-wrap: wrap; flex-direction:row;">
-    <div style="flex: 1;">
-      <img src="https://i.ibb.co/YfJs3wq/bDesh.png" style="width:300px;max-width:80%;height:300px;" >
-    </div>
-    <div style="flex: 1;">
-      <img src="https://i.ibb.co/ZKkF53z/flytographer.png" style="width:300px;max-width:80%;height:300px;" >
-    </div>
-    <div style="flex: 1;">
-      <img src="https://i.ibb.co/yP1rz9x/chaka.png" style="width:300px;max-width:80%;height:300px;" >
-    </div>
-    <div style="flex: 1;">
-      <img src="https://i.ibb.co/rtB0JNy/furniture.png" style="width:300px;max-width:80%;height:300px;" >
-    </div>
-     <div style="flex: 1;">
-      <img src="https://i.ibb.co/7CdfHpv/learning-platform.png" style="width:300px;max-width:80%;height:300px;" >
-    </div>
+### Here Is Some of My Project Image
+
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://i.ibb.co/YfJs3wq/bDesh.png" style="width:300px;height:300px;" alt="Project 1">
+    <div style="text-align: center;">Project 1</div>
+</div>
+
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://i.ibb.co/ZKkF53z/flytographer.png" style="width:300px;height:300px;" alt="Project 2">
+    <div style="text-align: center;">Project 2</div>
+</div>
+
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://i.ibb.co/yP1rz9x/chaka.png" style="width:300px;height:300px;" alt="Project 3">
+    <div style="text-align: center;">Project 3</div>
+</div>
+
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://i.ibb.co/rtB0JNy/furniture.png" style="width:300px;height:300px;" alt="Project 4">
+    <div style="text-align: center;">Project 4</div>
+</div>
+
+<div style="display: inline-block;">
+    <img src="https://i.ibb.co/7CdfHpv/learning-platform.png" style="width:300px;height:300px;" alt="Project 5">
+    <div style="text-align: center;">Project 5</div>
 </div>
 
 
