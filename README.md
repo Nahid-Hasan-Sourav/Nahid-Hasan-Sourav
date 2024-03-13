@@ -43,7 +43,7 @@
 
 <div>
   <h1>Here Is Some of My Project Image</h1>
-  <div style="display:flex; flex-wrap: wrap;">
+  <div style="display:flex; flex-wrap: wrap; flex-direction:row;">
     <div style="flex: 1;">
       <img src="https://i.ibb.co/YfJs3wq/bDesh.png" style="width:300px;max-width:80%;height:300px;" >
     </div>
