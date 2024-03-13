@@ -42,7 +42,7 @@
 <hr>
 
 <div>
-  <h1>Here Is Some of My Project Image</h1>
+  ### Here Is Some of My Project Image
   <div style="display:flex; flex-wrap: wrap; flex-direction:row;">
     <div style="flex: 1;">
       <img src="https://i.ibb.co/YfJs3wq/bDesh.png" style="width:300px;max-width:80%;height:300px;" >
@@ -60,9 +60,8 @@
       <img src="https://i.ibb.co/7CdfHpv/learning-platform.png" style="width:300px;max-width:80%;height:300px;" >
     </div>
 </div>
-### Here Is Some of My Project Image
 
-![Project 1](https://i.ibb.co/YfJs3wq/bDesh.png) | ![Project 2](https://i.ibb.co/ZKkF53z/flytographer.png) | ![Project 3](https://i.ibb.co/yP1rz9x/chaka.png) | ![Project 4](https://i.ibb.co/rtB0JNy/furniture.png) | ![Project 5](https://i.ibb.co/7CdfHpv/learning-platform.png)
+
 
 
 </div>
