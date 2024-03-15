@@ -42,19 +42,15 @@
 <hr>
 
 
-
+<div>
   <h1>Here Is Some of My Project Image</h1>
  
     <div>
       <img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">
      
     </div>
-    <div>
-    <h1>Figma To React Js</h1>
-      <img src="https://i.ibb.co/0sbGGbV/skills-Judge.png">&nbsp;
-      <img src="https://i.ibb.co/4JFxyHz/mrCafe.png" width="300px" height="300px">&nbsp;
-    </div>
-
+   
+</div>
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-hasan-sourav&show_icons=true&locale=en&layout=compact" alt="nahid-hasan-sourav" /></p>
