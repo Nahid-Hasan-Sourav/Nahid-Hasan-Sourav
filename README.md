@@ -52,11 +52,12 @@
 	<div>
   	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/yPjpd56/learning-platform.png" width="250px" height="250px">&nbsp;
-  	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/4Jpmf4P/image-gallery.png" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/TWJyNrM/furniture.png" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/2yjG6c3/flytographer.png" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/9HVQQ7j/chaka.png" width="250px" height="250px">&nbsp;
+	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
+  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
 	</div>
   </div>
 </div>
