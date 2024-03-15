@@ -47,10 +47,12 @@
   <div>
     <div>
       <img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">
-      <small>Test--</small>
-    </div>&nbsp;
+     
+    </div>
     <div>
-      <img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">
+    <h1>Figma To React Js</h1>
+      <img src="https://i.ibb.co/0sbGGbV/skills-Judge.png">&nbsp;
+      <img src="https://i.ibb.co/4JFxyHz/mrCafe.png" width="300px" height="300px">&nbsp;
     </div>
   </div>
 </div>
