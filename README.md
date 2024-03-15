@@ -50,7 +50,7 @@
   	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">&nbsp;
   	<img src="https://i.ibb.co/4JFxyHz/mrCafe.png" width="300px" height="300px">&nbsp;
 	
-</div>
+
 
 <hr>
 
