@@ -59,13 +59,12 @@
 	  	<img src="https://i.ibb.co/cw8XMGp/bDesh.png" width="250px" height="250px">&nbsp;
       		<h6>MERN STACK PROJECT</h6>&nbsp;
 	  	<img src="https://i.ibb.co/9HVQQ7j/chaka.png" width="250px" height="250px">&nbsp;
-	    	<h5>This is a blog website using laravel</h5>&nbsp;
+	    	<h5>LARAVEL PROJECTS</h5>&nbsp;
 	 	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
 	 	<img src="https://i.ibb.co/TPVSVFw/profile-blog-page.jpg" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
 	
 	
-	  </div>
   </div>
 </div>
 
