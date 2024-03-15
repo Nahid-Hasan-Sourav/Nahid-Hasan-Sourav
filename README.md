@@ -50,21 +50,23 @@
   <hr>
   <div>
 	<div style="text-align: center; background-color: gray;">
+		<h6>This are figma to React js project</h6>
 	  	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/yPjpd56/learning-platform.png" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/4Jpmf4P/image-gallery.png" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/TWJyNrM/furniture.png" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/2yjG6c3/flytographer.png" width="250px" height="250px">&nbsp;
-	  	<img src="https://i.ibb.co/9HVQQ7j/chaka.png" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/cw8XMGp/bDesh.png" width="250px" height="250px">&nbsp;
-	  	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
+
+      		<h6>This is a mern stack project</h6>
+	  	<img src="https://i.ibb.co/9HVQQ7j/chaka.png" width="250px" height="250px">&nbsp;
+
+	    	<h5>This is a blog website using laravel</h5>  
+      		<hr>
+	 	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
-    <h5>This is a blog website using laravel</h5>  
- 	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
-  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
 	
-	</div>
-	<hr>
+	
 	
   </div>
 </div>
