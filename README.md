@@ -52,17 +52,6 @@
   </div>
 </div>
 <hr>
-<div style="text-align: center;>
-
- 
-  <div>
-	<div>
-  	<img src="https://i.ibb.co/4JFxyHz/mrCafe.png" width="300px" height="300px">&nbsp;
-	</div>
-  </div>
-</div>
-
-<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-hasan-sourav&show_icons=true&locale=en&layout=compact" alt="nahid-hasan-sourav" /></p>
 
