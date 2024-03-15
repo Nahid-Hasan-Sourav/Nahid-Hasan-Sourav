@@ -52,6 +52,9 @@
   	<img src="https://i.ibb.co/yPjpd56/learning-platform.png" width="300px" height="300px">&nbsp;
   	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="300px" height="300px">&nbsp;
   	<img src="https://i.ibb.co/4Jpmf4P/image-gallery.png" width="300px" height="300px">&nbsp;
+  	<img src="https://i.ibb.co/TWJyNrM/furniture.png" width="300px" height="300px">&nbsp;
+  	<img src="https://i.ibb.co/2yjG6c3/flytographer.png" width="300px" height="300px">&nbsp;
+  	<img src="https://i.ibb.co/9HVQQ7j/chaka.png" width="300px" height="300px">&nbsp;
 	</div>
   </div>
 </div>
