@@ -46,10 +46,10 @@
 <a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
 
 <hr>
-  <h1>Here Is Some of My Project Image</h1>
+  <h1>HERE IS SOME OF MY PROJECT IMAGES</h1>
   <hr>
   <div>
-	<div>
+	<div style="text-align: center; background-color: gray;">
   	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/yPjpd56/learning-platform.png" width="250px" height="250px">&nbsp;
   	<img src="https://i.ibb.co/4Jpmf4P/image-gallery.png" width="250px" height="250px">&nbsp;
