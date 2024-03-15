@@ -59,12 +59,13 @@
 	  	<img src="https://i.ibb.co/cw8XMGp/bDesh.png" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
+    <h5>This is a blog website using laravel</h5>  
+ 	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
+  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
 	
 	</div>
 	<hr>
-	<h5>This is a blog website using laravel</h5>  
- 	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
-  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
+	
   </div>
 </div>
 
