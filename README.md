@@ -2,7 +2,7 @@
 <div>
 
   `FRONTEND`
-  
+ 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/>&nbsp;
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/>&nbsp;
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" title="BOOTSTARP"/>&nbsp;
@@ -12,14 +12,14 @@
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"/>&nbsp;
 
   `BACKEND`
-  
+ 
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>&nbsp;
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" title="LARAVEL"/>&nbsp;
 
   `DATABASE`
-  
+ 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MY SQL"/>&nbsp;
-  
+ 
 `FAMILIAR `
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongo DB"/>&nbsp;
@@ -28,7 +28,7 @@
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>&nbsp;
    
   `TOOLS`
-  
+ 
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;
   [![Server](https://img.shields.io/badge/Server-Laragon-ff69b4?logo=laragon)](https://laragon.org/)&nbsp;
   [![Server](https://img.shields.io/badge/Server-XAMPP-blue?logo=xampp)](https://www.apachefriends.org/index.html)&nbsp;
@@ -36,21 +36,24 @@
   [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  
+ 
 
 </div>
 <hr>
 
-
-<div>
+<div style="text-align: center;>
+<a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
+ <img src="https://i.ibb.co/SrqYy2L/btn.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:300px;max-width:80%;height:auto;" alt="dnld" border="0">
+  </a> <a href="" target="" style="text-decoration: none"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" alt="Buy Me A Coffee" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:220px;max-width:80%;height:auto;" ></a>
   <h1>Here Is Some of My Project Image</h1>
- 
-    <div>
-      <img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">
-     
-    </div>
-   
+  <div>
+	<div>
+  	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">&nbsp;
+  	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">&nbsp;
+	</div>
+  </div>
 </div>
+
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-hasan-sourav&show_icons=true&locale=en&layout=compact" alt="nahid-hasan-sourav" /></p>
@@ -83,5 +86,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/nahid-hasan-sourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahid-hasan-sourav" height="30" width="40" /></a>
 </p>
-
-
