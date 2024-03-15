@@ -49,8 +49,9 @@
   <div>
 	<div>
   	<img src="https://i.ibb.co/HnF8N28/work-sample.jpg" width="300px" height="300px">&nbsp;
-  	<img src="https://i.ibb.co/4JFxyHz/mrCafe.png" width="300px" height="300px">&nbsp;
+  	<img src="https://i.ibb.co/yPjpd56/learning-platform.png" width="300px" height="300px">&nbsp;
   	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="300px" height="300px">&nbsp;
+  	<img src="https://i.ibb.co/4Jpmf4P/image-gallery.png" width="300px" height="300px">&nbsp;
 	</div>
   </div>
 </div>
