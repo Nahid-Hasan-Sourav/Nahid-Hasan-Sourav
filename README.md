@@ -58,11 +58,10 @@
 	  	<img src="https://i.ibb.co/2yjG6c3/flytographer.png" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/cw8XMGp/bDesh.png" width="250px" height="250px">&nbsp;
       		<h6>This is a mern stack project</h6>&nbsp;
-		<img src="https://i.ibb.co/cw8XMGp/bDesh.png" width="250px" height="250px">&nbsp;
+		<hr>
 	  	<img src="https://i.ibb.co/9HVQQ7j/chaka.png" width="250px" height="250px">&nbsp;
-
 	    	<h5>This is a blog website using laravel</h5>&nbsp;
-      		<hr>
+		<hr>
 	 	<img src="https://i.ibb.co/KXZwrQC/login.jpg" width="250px" height="250px">&nbsp;
 	  	<img src="https://i.ibb.co/XDPfzxH/blog-details.jpg" width="250px" height="250px">&nbsp;
 	
